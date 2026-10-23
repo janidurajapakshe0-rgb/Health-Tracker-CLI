@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class P7 {
+public class HealthTracker {
     public static void main(String[] args) {
         Scanner W = new Scanner(System.in);
         System.out.print("Enter Your Weight(Please send in kilograms): ");
